@@ -14,9 +14,10 @@ And return the resolved value, its qualifiers, and citation—or I don't know.
   <img src="images/architecture.png" alt="Frontend dashboard" width="900">
 </p>
 
-# how decide what's current, and which API keys it needs.
+# how decide what's current.
 The solution is designed around one important principle:
   The newest value is not automatically the correct value. It must be the newest applicable and supported value for the entity, attribute, and qualifiers in the question.
+
 <p align="center">
   <img src="images/current-value.png" alt="Frontend dashboard" width="900">
 </p>
