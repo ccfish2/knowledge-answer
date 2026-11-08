@@ -1,2 +1,2 @@
 # knowledge-answer
-A knowledge system that knows what true now
+A knowledge system that knows what's true now
